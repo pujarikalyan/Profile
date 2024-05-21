@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 May 2024 16:10:41 at https://www.madebydesignesia.com/themes/profession/index-2-particle.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://www.madebydesignesia.com/themes/profession/index-2-particle.html* +*https://www.madebydesignesia.com/themes/profession/index-2-particle.html*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://www.madebydesignesia.com/themes/profession/index-2-particle.html -O1 "C:\Users\user\Desktop\Desktop\resume" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://www.madebydesignesia.com/themes/profession/index-2-particle.html* +*https://www.madebydesignesia.com/themes/profession/index-2-particle.html* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/fonts/glyphicons-halflings-regular.eot (from https://www.madebydesignesia.com/themes/profession/css/bootstrap.css)
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/fonts/glyphicons-halflings-regular.eot? (from https://www.madebydesignesia.com/themes/profession/css/bootstrap.css)
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/fonts/glyphicons-halflings-regular.woff (from https://www.madebydesignesia.com/themes/profession/css/bootstrap.css)
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/fonts/glyphicons-halflings-regular.ttf (from https://www.madebydesignesia.com/themes/profession/css/bootstrap.css)
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/fonts/glyphicons-halflings-regular.svg (from https://www.madebydesignesia.com/themes/profession/css/bootstrap.css)
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/css/grabbing.png (from https://www.madebydesignesia.com/themes/profession/css/owl.carousel.css)
+16:11:02	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/css/AjaxLoader.gif (from https://www.madebydesignesia.com/themes/profession/css/owl.carousel.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/ui/arrow-down-form.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/ui/arrow-down-form-hover.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/dotted.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/icon-slide-plus.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/icon-slide-min.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/close.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/close-2.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/icon-url.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/icon-zoom.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/list-arrow.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images/background/bg-header.jpg (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/page-loader.gif (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/ui/arrow-down.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/ui/arrow-up.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/ui/arrow-down-dark.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+16:11:06	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/profession/images_02/ui/arrow-up-dark.png (from https://www.madebydesignesia.com/themes/profession/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 102 links scanned, 78 files written (10855505 bytes overall) [9685079 bytes received at 387403 bytes/sec], 1669121 bytes transferred using HTTP compression in 31 files, ratio 24%, 34.0 requests per connection
+(23 errors, 0 warnings, 0 messages)
